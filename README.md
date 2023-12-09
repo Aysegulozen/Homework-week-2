@@ -6,7 +6,7 @@ This is my personal portfolio showcasing various projects and works I have compl
 
 ## Website Link
 
-[Homework Week 2 Portfolio](https://aysegulozen.github.io/Homework-week-2/))
+[Homework Week 2 Portfolio](https://aysegulozen.github.io/Homework-week-2/)
 
 ## Features
 
@@ -22,8 +22,7 @@ This is my personal portfolio showcasing various projects and works I have compl
 ## How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/aysegulozen/Homework-week-1.git
-
+   git clone https://github.com/Aysegulozen/Homework-week-2
 2. Open the index.html file in your preferred web browser.
 
 ## Screenshots
