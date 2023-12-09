@@ -6,7 +6,7 @@ This is my personal portfolio showcasing various projects and works I have compl
 
 ## Website Link
 
-[Homework Week 2 Portfolio](https://aysegulozen.github.io/Homework-week-1/)
+[Homework Week 2 Portfolio](https://aysegulozen.github.io/Homework-week-2/))
 
 ## Features
 
