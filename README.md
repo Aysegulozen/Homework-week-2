@@ -7,6 +7,7 @@ This is my personal portfolio showcasing various projects and works I have compl
 ## Website Link
 
 [Homework Week 2 Portfolio](https://aysegulozen.github.io/Homework-week-2/)
+Live link (https://stupendous-rolypoly-3b438c.netlify.app/)
 
 ## Features
 
